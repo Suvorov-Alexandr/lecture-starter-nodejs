@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "firstName": "Bob",
+      "lastName": "Killer",
+      "email": "bk@gmail.com",
+      "phoneNumber": "+380503355777",
+      "password": "123321",
+      "id": "434eb67d-3239-4e75-8e58-a178af0f6622",
+      "createdAt": "2023-01-24T00:26:28.924Z",
+      "updatedAt": "2023-01-24T08:42:34.585Z"
+    }
+  ],
+  "fighters": [
+    {
+      "name": "Ryu",
+      "power": "100",
+      "defense": 10,
+      "health": 100,
+      "id": "c3dd5619-3eba-47a4-b53f-209ca9ed9cfd",
+      "createdAt": "2023-01-22T15:33:30.029Z",
+      "updatedAt": "2023-01-24T08:40:35.327Z"
+    }
+  ],
+  "fights": []
+}
